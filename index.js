@@ -2,7 +2,7 @@
 // Tentukan tipe data dan struktur data yang menurut kalian tepat
 // Kalian bisa membuat variabel lain untuk dimasukkan ke dalam atribut user agar lebih mudah dibaca
 const firstUser = {
-    name: 'Monica', 
+    name: "Monica", 
     gender: 'Female', 
     age: 17, 
     email: 'monica@dingdong.com', 
@@ -10,7 +10,7 @@ const firstUser = {
     isHavePet: true, 
     education: [{ name: 'SD 01', city: 'Jakarta', graduate: 2016 }, 
                 { name: 'SMP 02', city: 'Jakarta', graduate: 2019 }, 
-                { name: 'SMA 03', city: 'Tangerang', graduate: 0 }
+                { name: 'SMA 03', city: 'Tangerang', graduate: 0 },
                 { name : " ", city : " ", graduat :" "}], 
     favoriteRestaurant: ['Bento', 'Pancake', 'Tempura', 'Eggy', 'Tteok'] 
 };
