@@ -10,7 +10,8 @@ const firstUser = {
     isHavePet: true, 
     education: [{ name: 'SD 01', city: 'Jakarta', graduate: 2016 }, 
                 { name: 'SMP 02', city: 'Jakarta', graduate: 2019 }, 
-                { name: 'SMA 03', city: 'Tangerang', graduate: 2022 }], 
+                { name: 'SMA 03', city: 'Tangerang', graduate: 0 }
+                { name : " ", city : " ", graduat :" "}], 
     favoriteRestaurant: ['Bento', 'Pancake', 'Tempura', 'Eggy', 'Tteok'] 
 };
 const secondUser = {
@@ -18,13 +19,13 @@ const secondUser = {
     gender: 'Male', 
     age: 23, 
     email: 'wendy@dingdong.com', 
-    favoriteColor: ['Blue', 'Black', 'Grey'], 
+    favoriteColor: ['Blue', 'Black', 'Grey', " "], 
     isHavePet: false, 
     education: [{ name: 'SD 02', city: 'Jakarta', graduate: 2010 }, 
-    { name: 'SMP 03', city: 'Bogor', graduate: 2013 }, 
-    { name: 'SMP 03', city: 'Bogor', graduate: 2013 }, 
-    { name: 'SMA 01', city: 'Surabaya', graduate: 2016 }, 
-    { name: 'Universitas Maju', city: 'Tangerang', graduate: 2022 }], 
+                { name: 'SMP 03', city: 'Bogor', graduate: 2013 }, 
+                { name: 'SMP 03', city: 'Bogor', graduate: 2013 }, 
+                { name: 'SMA 01', city: 'Surabaya', graduate: 2016 }, 
+                { name: 'Universitas Maju', city: 'Tangerang', graduate: 0 }], 
     favoriteRestaurant: ['Sushi', 'Padang', 'Katsu', 'Geprek']
 };
 
