@@ -3,7 +3,7 @@
 // Kalian bisa membuat variabel lain untuk dimasukkan ke dalam atribut user agar lebih mudah dibaca
 const firstUser = {
     nama1 : "Monica",
-    gender1 : "female",
+    gender1 : "F",
     age1 : 17,
     email1 : "monica@dingdong.com",
     favoriteColor1 : "Yellow, Pink, White, Purple",
