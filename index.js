@@ -2,27 +2,29 @@
 // Tentukan tipe data dan struktur data yang menurut kalian tepat
 // Kalian bisa membuat variabel lain untuk dimasukkan ke dalam atribut user agar lebih mudah dibaca
 const firstUser = {
-    nama1 : "Monica",
-    gender1 : "F",
-    age1 : 17,
-    email1 : "monica@dingdong.com",
-    favoriteColor1 : "Yellow, Pink, White, Purple",
-    isHavePet : true,
-    education : [
+    name: 'Monica',
+    gender: 'F',
+    age: 17,
+    email: 'monica@dingdong.com',
+    favoriteColor: [
+        'Yellow', 'Pink', 'White', 'Purple'
+    ],
+    isHavePet: true,
+    education: [
         {
-        name : "SD 01",
-        city : "Jakarta",
-        graduate : 2016
+            name: 'SD 01',
+            city: 'Jakarta',
+            graduate: 2016
         },
         {
-        name : "SMP 02",
-        city : "Jakarta",
-        graduate : 2019
+            name: 'SMP 02',
+            city: 'Jakarta',
+            graduate: 2019
         },
         {
-        name : "SMA 03",
-        city : "Tangerang",
-        graduate : 0
+            name: 'SMA 03',
+            city: 'Tangerang',
+            graduate: 0
         }
     ],
     favoriteRestaurant: [
@@ -63,8 +65,8 @@ const secondUser = {
     favoriteRestaurant: [
         'Tempura', 'Bento', 'Sushi', 'Pancake', 'Padang', 'Katsu', 'Geprek', 'Eggy'
     ]
-
 };
+
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
 const users = [firstUser, secondUser];
