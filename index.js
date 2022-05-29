@@ -18,7 +18,7 @@ const secondUser = {
     gender: 'Male', 
     age: 23, 
     email: 'wendy@dingdong.com', 
-    favoriteColor: ['Blue', 'Black', 'Grey', " "], 
+    favoriteColor: ['Blue', 'Black', 'Grey'], 
     isHavePet: false, 
     education: [{ name: 'SD 02', city: 'Jakarta', graduate: 2010 }, 
                 { name: 'SMP 03', city: 'Bogor', graduate: 2013 }, 
