@@ -11,7 +11,7 @@ const firstUser = {
     education: [{ name: 'SD 01', city: 'Jakarta', graduate: 2016 }, 
                 { name: 'SMP 02', city: 'Jakarta', graduate: 2019 }, 
                 { name: 'SMA 03', city: 'Tangerang', graduate: 2022 }], 
-    favoriteRestaurant: ['Bento', 'Sushi', 'Pancake', 'Tempura', 'Eggy', 'Padang', 'Tteok'] 
+    favoriteRestaurant: ['Bento', 'Pancake', 'Tempura', 'Eggy', 'Tteok'] 
 };
 const secondUser = {
     name: 'Wendy', 
@@ -25,7 +25,7 @@ const secondUser = {
     { name: 'SMP 03', city: 'Bogor', graduate: 2013 }, 
     { name: 'SMA 01', city: 'Surabaya', graduate: 2016 }, 
     { name: 'Universitas Maju', city: 'Tangerang', graduate: 2022 }], 
-    favoriteRestaurant: ['Tempura', 'Bento', 'Sushi', 'Pancake', 'Padang', 'Katsu', 'Geprek', 'Eggy']
+    favoriteRestaurant: ['Sushi', 'Padang', 'Katsu', 'Geprek']
 };
 
 
